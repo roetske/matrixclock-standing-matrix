@@ -25,3 +25,4 @@ Alarm active is shown to user by horizontal ledbar last digit.<br/>
 
 One of my first projects together with ai gimini. The idea and making hardware from the human being me and then code by ai <br/>
 and refining by testing and testing again in cooperation with ai.<br/>
+youtube link result: https://youtu.be/KniBjgp7o3E
